@@ -1,0 +1,44 @@
+html{
+  font-family: helvetica;
+  line-height: 1.15;
+}
+body{
+  background-image: url("243341.png");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-color: #FFFFFF;
+  font-family: helvetica;
+  margin: 20 5;
+}
+  
+body h1 img{
+  width: 400px;
+  height: auto;
+  margin: auto auto;
+  display: block;
+}
+
+.intro .introtext{
+  text-align: center;
+  display: block;
+  margin: auto 60;
+}
+
+.intro a button{
+  display: block; 
+  margin: 85 auto;
+  text-align: center;
+  width: 200px;
+  height: 40px;
+  border: 3px;
+  border-color: #000000;
+  border-style: solid;
+  border-radius: 30px;
+  background-color: #4DA6FF;
+  font-size: 18px;
+}
+
+a:hover button{
+  background-color: brown;
+  width: 210px;
+}
